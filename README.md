@@ -15,6 +15,8 @@ I am a software developer based in Nairobi, Kenya, with 2+ years of experience b
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<br>
 
 ## 🔭 I’m currently working on ...
 - 👨‍💻 Writing `Python`, `JavaScript`, `HTML`, `CSS`, `PostgreSQL`, `React`.
