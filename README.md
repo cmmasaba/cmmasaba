@@ -54,7 +54,11 @@ I'm a software developer based in Nairobi, Kenya, with 2+ years of experience bu
   - **🔭 Frameworks:** • Flask • Django • Node
   - **🎛 Content Management Systems:** • Wordpress
   - **💾 Databases and ORM:** • PostgreSQL • SQL Alchemy
-  - **🔌 Communication protocols:** • REST
+  - **🔌 Communication protocols:** • REST • FastAPI
+
+- 🗄️ **Cloud Applications:**
+  - **📜 Platforms:** • AWS • GCP
+  - **🔭 Frameworks:** • App Engine • Cloud Functions • AppSheet
 
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository and tracking:** • Git
