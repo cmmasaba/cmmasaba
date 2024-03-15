@@ -64,6 +64,8 @@ I am a software developer based in Nairobi, Kenya, with 2+ years of experience b
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:** • MVVM • MVC
   - **🗜 Principles:** • DRY • ACID
+
+![Collins's github stats](https://github-readme-stats.vercel.app/api?username=cmmasaba&show_icons=true&hide_border=true&theme=radical)
 <!--
 - I have built and deployed web apps in Python using Django framework.
 - I have built automation and scraping bots in Python using Selenium, leveraging HTTP API endpoints.
