@@ -6,7 +6,7 @@
 
 ## Get To Know Collins
 
-I am a software developer based in Nairobi, Kenya, with 2+ years of experience building software in production. My preference and specilaization is in backend development, however I am very flexible and I regularly work with frontend, no-code, SaaS, and mobile development stacks.
+I'm a software developer based in Nairobi, Kenya, with 2+ years of experience building software in production. My preference and specilaization is in backend development, however I am very flexible and I regularly work with frontend, no-code, SaaS, and mobile development stacks.
 <br>
 <a href="https://twitter.com/cmmasaba">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
