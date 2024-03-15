@@ -5,7 +5,7 @@
          width="40"
 />
 
-## Get To Know Collins
+**Get To Know Collins**
 I am a software developer based in Nairobi, Kenya, with 2+ years of experience building software in production. My preference and specilaization is in backend development, however I am very flexible and I regularly work with frontend, no-code, SaaS, and mobile development stacks.
 <br>
 <a href="https://twitter.com/cmmasaba">
@@ -18,12 +18,12 @@ I am a software developer based in Nairobi, Kenya, with 2+ years of experience b
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <br>
 
-## 🔭 I’m currently working on ...
+**🔭 I’m currently working on ...**
 - 👨‍💻 Writing `Python`, `JavaScript`, `HTML`, `CSS`, `PostgreSQL`, `React`.
 - Building a web app for geotracking and route-optimization.
 - Building a blog site for civic education and sensitization in Kenya.
 
-## 🌱 I’m currently learning ...
+**🌱 I’m currently learning ...**
 - Database design and programming using `PostgreSQL` and `SQL Alchemy ORM`.
 - Algorithms and Data Structures in Python.
 - Data Science and Analytics using Python.
@@ -32,7 +32,7 @@ I am a software developer based in Nairobi, Kenya, with 2+ years of experience b
 - Docker containerization and Kubernetes orcherstration.
 - Systems design and analysis.
 
-## 💬 Ask me about ...
+**💬 Ask me about ...**
 - Web APIs i.e. REST, FastAPI
 - Google AppSheet.
 - Python, Django and Django REST.
@@ -42,7 +42,7 @@ I am a software developer based in Nairobi, Kenya, with 2+ years of experience b
 - Zoho One, CRM.
 - Computer networking and CyberSec.
 
-## Skillset
+**Skillset**
 - 🖥 **Front-end:**
   - **📜 Languages:** • JavaScript • HTML • CSS
   - **🔬 Frameworks:**  
