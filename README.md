@@ -9,14 +9,11 @@
 I'm a software developer based in Nairobi, Kenya, with 2+ years of experience building software in production. My preference and specilaization is in backend development, however I am very flexible and I regularly work with frontend, no-code, SaaS, and mobile development stacks.
 <br>
 <a href="https://twitter.com/cmmasaba">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Collins Mmasaba | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/cmmasaba">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Collins Mmasaba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-<br>
 
 **🔭 I’m currently working on ...**
 - 👨‍💻 Writing `Python`, `JavaScript`, `HTML`, `CSS`, `PostgreSQL`, `React`.
