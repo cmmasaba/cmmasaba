@@ -1,9 +1,3 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" />
-<br>
-
 I'm a software developer based in Nairobi, Kenya, with 2+ years of experience building <br>
 software in production. My preference and specilaization is in backend development, <br>
 however I am very flexible and I regularly work with frontend, no-code, SaaS, and<br>
