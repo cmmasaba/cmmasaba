@@ -3,6 +3,7 @@ software in production. My preference and specilaization is in backend developme
 however I am very flexible and I regularly work with frontend, no-code, SaaS, and<br>
 mobile development stacks.
 <br>
+
 **🔭 I’m currently working on ...**
 - Data analysis and Machine Learning.
 - Digital Image Processing.
