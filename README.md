@@ -4,7 +4,8 @@ however I am very flexible and I regularly work with frontend, no-code, SaaS, an
 mobile development stacks.
 <br>
 **🔭 I’m currently working on ...**
-- 👨‍💻 Writing projects in `Python`, `Java`
+- Data analysis and Machine Learning.
+- Digital Image Processing.
 - Improving skills in Data Structures and Algorithms.
 - Building a web app for geotracking and route-optimization.
 
