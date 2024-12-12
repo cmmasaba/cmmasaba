@@ -4,7 +4,7 @@ however I am very flexible and I regularly work with frontend, no-code, SaaS, an
 mobile development stacks.
 <br>
 **🔭 I’m currently working on ...**
-- 👨‍💻 Writing `Python`, `JavaScript`, `HTML`, `CSS`, `PostgreSQL`, `React`.
+- 👨‍💻 Writing projects in `Python`, `Java`.
 - Building a web app for geotracking and route-optimization.
 
 **🌱 I’m currently learning ...**
