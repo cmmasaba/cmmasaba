@@ -1,4 +1,4 @@
-I'm a software developer based in Nairobi, Kenya, with 2+ years of experience building <br>
+I'm a software developer based in Nairobi, Kenya, with 3 years of experience building <br>
 software in production. My preference and specilaization is in backend development, <br>
 however I am very flexible and I regularly work with frontend, no-code, SaaS, and<br>
 mobile development stacks.
