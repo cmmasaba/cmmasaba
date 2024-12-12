@@ -11,52 +11,25 @@ I'm a software developer based in Nairobi, Kenya, with 2+ years of experience bu
 **🔭 I’m currently working on ...**
 - 👨‍💻 Writing `Python`, `JavaScript`, `HTML`, `CSS`, `PostgreSQL`, `React`.
 - Building a web app for geotracking and route-optimization.
-- Building a blog site for civic education and sensitization in Kenya.
 
 **🌱 I’m currently learning ...**
 - Database design and programming using `PostgreSQL` and `SQL Alchemy ORM`.
-- Algorithms and Data Structures in Python.
-- Data Science and Analytics using Python.
+- Algorithms and Data Structures.
+- Data Science and Analytics, and Machine Learning.
 - No-code development using `Google AppSheet`.
 - SaaS and Cloud development leveraging `Google Cloud Platform` and `Zoho`
 - Docker containerization and Kubernetes orcherstration.
 - Systems design and analysis.
+- Java programming language
 
 **💬 Ask me about ...**
 - Web APIs i.e. REST, FastAPI
 - Google AppSheet.
 - Python, Django and Django REST.
 - Internationalization i.e. i18n.
-- GCP App Engine.
-- GCP Cloud Functions.
-- Zoho One, CRM.
-- Computer networking and CyberSec.
-
-**Skillset**
-- 🖥 **Front-end:**
-  - **📜 Languages:** • JavaScript • HTML • CSS
-  - **🔬 Frameworks:**  
-    - **🌐 Web:** • React
-    - **🌐 Web:** • Bootstrap 5
-
-- 🗄️ **Back-end:**
-  - **📜 Languages:** • Python • JS
-  - **🔭 Frameworks:** • Flask • Django • FastAPI
-  - **💾 Databases and ORM:** • PostgreSQL • SQL Alchemy • Firestore
-  - **🔌 Communication protocols:** • REST
-
-- 🗄️ **Cloud Applications:**
-  - **📜 Platforms:** • AWS • GCP
-  - **🔭 Frameworks:** • App Engine • Cloud Functions • AppSheet
-
-- 🎡 **Software development ecosystem:**
-  - **📁 Code repository and tracking:** • Git
-  - **🗃 Project management:** • Jira • Asana
-  - **🗂 CI/CD:** • Github Actions
-
-- 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:** • MVVM • MVC
-  - **🗜 Principles:** • DRY • ACID • 12Factor
+- GCP
+- Machine Learning
+- Data Analysis
 
 ![Collins's github stats](https://github-readme-stats.vercel.app/api?username=cmmasaba&show_icons=true&hide_border=true&theme=radical)
 <!--
